@@ -1,0 +1,258 @@
+{
+  "toast": {
+    "need_exit": "กด Back อีกครั้งเพื่อออกจากแอพ",
+    "alert_booking": "กรุณาเลือกบริการ และวันเวลาที่ต้องการ"
+  },
+  "onboarding": {
+    "skip": "ข้าม",
+    "next": "ถัดไป",
+    "start": "เริ่มต้นใช้งาน",
+    "title_1": "จองนัดหมายได้ตลอดเวลา",
+    "description_1": "สามารถจองนัดหมอฟันได้อย่างรวดเร็ว ไม่ต้องเสียเวลาในการเดินทางมาที่คลินิก",
+
+    "title_2": "สะดวกสบาย ง่ายดายเพียงไม่กี่คลิก",
+    "description_2": "คุณสามารถจอง เลื่อน ยกเลิก\nได้ในง่ายพร้อมทั้งมีระบบการแจ้งเตือนก่อนถึงนัดหมาย",
+
+    "title_3": "ดูแลอย่างใส่ใจ",
+    "description_3": "ทีมแพทย์ของเราเป็นมืออาชีพที่ให้การดูแลอย่างเป็นทางการ บริการด้วยเครื่องมือแพทย์ที่ทันสมัยได้มาตรฐาน"
+  },
+  "intro": {
+    "description": "คลินิกทันตกรรม  ยูยู  คิดเด้นท์",
+    "start": "เริ่มต้นใช้งาน"
+  },
+  "intro_term": {
+    "appbar_title": "ข้อกำหนดและเงื่อนไข",
+    "bt_Confirm": "ยอมรับข้อตกลงและเงื่อนไข"
+  },
+  "log_in": {
+    "description": "เข้าใช้งานด้วยเบอร์โทรศัพท์",
+    "bt_Confirm": "ยืนยัน"
+  },
+  "otp": {
+    "appbar_title": "กรอกรหัส OTP",
+    "description": "กรุณาใส่รหัส OTP ที่ได้รับจากหมายเลขโทรศัพท์",
+    "bt_Confirm": "ยืนยัน",
+    "bt_Request": "ขอรหัส OTP อีกครั้ง"
+  },
+  "regis": {
+    "description": "ยืนยันข้อมูลส่วนตัว",
+    "name": "ชื่อ",
+    "surname": "นามสกุล",
+    "date": "วัน/เดือน/ปี เกิด",
+    "date_cancel": "ยกเลิก",
+    "date_confirm": "ยืนยัน",
+    "gender": "เพศ",
+    "male": "ชาย",
+    "female": "หญิง",
+    "personal_information_error": "กรุณากรอกข้อมูลให้ครบถ้วน",
+    "gender_identification_error": "กรุณาระบุเพศ"
+  },
+  "mainHome": {
+    "Home": "หน้าหลัก",
+    "Booking": "การจอง",
+    "History": "ประวัติ",
+    "Profile": "โปรไฟล์"
+  },
+  "home_page": {
+    "family": "ครอบครัว",
+    "appointment_list": "รายการนัดหมาย",
+    "view_all": "ดูทั้งหมด",
+    "notFound": "ไม่มีรายการนัดหมาย",
+    "service": {
+      "all": "บริการทั้งหมด",
+      "check_teeth": "ตรวจฟัน",
+      "scrape_tartar": "ขูดหินปูน",
+      "tooth_extraction": "ถอนฟัน",
+      "root": "รากฟัน",
+      "dental_filling": "อุดฟัน",
+      "wisdom_tooth_removal": "ผ่าฟันคุด",
+      "crown": "ครอบฟัน",
+      "orthodontics": "จัดฟัน",
+      "grooves": "หลุมร่องฟัน",
+      "retainer": "รีเทนเนอร์",
+      "whitening": "ฟอกสีฟัน",
+      "dental_X-ray": "X-ray ฟัน"
+    }
+  },
+  "booking_page": {
+    "find_doctor": "ค้นหาหมอ",
+    "select_service": "เลือกบริการ",
+    "field_hint": "ค้นหาอาการ,หมอ,ความเชี่ยวชาญ",
+    "notFound": "ไม่พบผลการค้นหา",
+    "description": "กรุณาลองค้นหาโดยใช้คำอื่นที่ใกล้เคียง"
+  },
+  "history_page": {
+    "appbar_title": "ประวัติการจอง",
+    "status": {
+      "all": "สถานะทั้งหมด",
+      "approve": "อนุมัติ",
+      "confirm": "ยืนยัน",
+      "waiting_check": "รอตรวจสอบ",
+      "cancel": "ยกเลิก",
+      "waiting_payment": "รอชำระเงิน",
+      "succeed": "สำเร็จ",
+      "appoint": "นัดหมาย"
+    }
+  },
+  "profile_page": {
+    "view_profile": "ดูข้อมูลโปรไฟล์",
+    "family": "ครอบครัว",
+    "contact": "ติดต่อ",
+    "question": "คำถาม",
+    "Terms_Conditions": "ข้อกำหนดและเงื่อนไข",
+    "log_out": "ออกจากระบบ",
+    "confirm_log_out": "ยืนยันการออกจากระบบ",
+    "bt_Cancel": "ยกเลิก",
+    "bt_Confirm": "ยืนยัน"
+  },
+  "booking_calendar": {
+    "appbar_title": "จองนัดหมาย",
+    "select_service": "กรุณาเลือกบริการ",
+    "select_date": "กรุณาเลือกวัน/เดือน/ปี ที่ต้องการจอง",
+    "select_time": "กรุณาเลือกเวลา",
+    "free_time": "ว่าง",
+    "busy_time": "ไม่ว่าง",
+    "bt_Confirm": "ยืนยันการจอง",
+    "notFound": "ไม่มีรายการนัดหมาย"
+  },
+  "booking_result": {
+    "appbar_title": "สรุปการจองนัดหมาย",
+    "time": "เวลา",
+    "doctor": "หมอ",
+    "patient": "คนไข้",
+    "reservation": "หมายเลขการจอง",
+    "company_name": "บริษัท ยูยู คิดเด้นท์ จำกัด",
+    "total_payment": "ยอดชำระเงินทั้งหมด",
+    "number_total_payment": "฿500",
+    "scheduled_payment_time": "****กรุณาชำระเงินภายใน 10 นาที",
+    "proof_payment": "อัปโหลดหลักฐานการชำระเงิน",
+    "proof_payment_description": "****กรุณาแนบหลักฐานการชำระเงินหากไม่ทำการแนบหลักฐานการาชำระเงินท่านจะไม่สามารถกดยืนยันเพื่อทำการจองได้",
+    "choose_picture": "เลือกรูป",
+    "bt_Confirm": "ยืนยันการจอง",
+    "alert_Confirm": "นัดหมายสำเร็จ",
+    "alert_bt_Confirm": "กลับสู่หน้าแรก"
+  },
+  "card": {
+    "reservation_no": "หมายเลขการจอง",
+    "all": "สถานะทั้งหมด",
+    "approve": "อนุมัติ",
+    "confirm": "ยืนยันเข้าคลินิก",
+    "waiting_check": "รอตรวจสอบ",
+    "cancel": "ยกเลิก",
+    "waiting_payment": "รอชำระเงิน",
+    "succeed": "สำเร็จ",
+    "appoint": "นัดหมายหมอ"
+  },
+  "in_card": {
+    "reservation_no": "หมายเลขการจอง",
+
+    "in_approve": "ผ่านการอนุมัติ",
+    "in_confirm": "ยืนยันเข้าคลินิก",
+    "in_waiting_check": "รอการตรวจสอบ",
+    "in_cancel": "ยกเลิกนัดหมาย",
+    "in_waiting_payment": "รอการชำระเงิน",
+    "in_succeed": "การนัดหมายสำเร็จ",
+    "in_appoint": "นัดหมายหมอ",
+
+    "bt_confirm": "ยืนยันเข้าคลินิก",
+    "bt_confirm_description": "***จะสามารถกดได้เมื่อถึงเวลา 24 ชั่วโมงก่อนนัดหมาย",
+    "alert_confirm": {
+      "tile": "ยืนยันเข้าคลินิก",
+      "confirm": "ยืนยัน",
+      "return": "กลับ"
+    },
+
+    "bt_postpone": "เลื่อนนัดหมาย",
+    "can_postpone_description": "***สามารถเลื่อนได้ 12 ชั่วโมงก่อนถึงนัดหมาย",
+    "postpone_description": "***โปรดแสดงหน้านี้เมื่อถึงคลินิก",
+
+    "bt_cancel": "ยกเลิกนัดหมาย",
+    "alert_cancel": {
+      "tile": "ยกเลิกนัดหมาย",
+      "description": "กรุณาระบุหมายเหตุ *",
+      "hintText": "กรุณาระบุหมายเหตุ *",
+      "Warning": "***หากยกเลิกนัดหมายจะไม่มีการคืนเงินทุกกรณี",
+      "confirm": "ยกเลิกนัดหมาย",
+      "return": "กลับ"
+    },
+    "bt_payment": "ชำระเงิน"
+  },
+  "postpone_calendar": {
+    "appbar_title": "เลื่อนนัดหมาย",
+    "select_date": "กรุณาเลือกวัน/เดือน/ปี ที่ต้องการจอง",
+    "select_time": "กรุณาเลือกเวลา",
+    "free_time": "ว่าง",
+    "busy_time": "ไม่ว่าง",
+    "bt_postpone": "ยืนยันการจอง",
+
+    "alert_postpone": {
+      "tile": "เลื่อนนัดหมาย",
+      "description_1": "เครดิตการเลื่อน :     ",
+      "description_2": "     ครั้ง",
+      "Warning": "***โปรดเลื่อนนัดหมายก่อน 12 ชั่วโมงก่อนถึงนัดหมายและหากเลื่อนเกิน 2 รอบจะมีค่าใช้จ่ายเพิ่มเติม",
+      "postpone": "เลื่อน",
+      "payment": "ชำระเงิน",
+      "return": "กลับ"
+    }
+  },
+  "show_profile": {
+    "title_bar": "ข้อมูลโปรไฟล์",
+    "edit": "แก้ไข",
+    "name": "ชื่อ",
+    "sername": "นามสกุล",
+    "first_name": "ชื่อ(อังกฤษ)",
+    "last_name": "นามสกุล(อังกฤษ)",
+    "nickname": "ชื่อเล่น",
+    "birthday": "วัน/เดือน/ปี เกิด",
+    "gender": "เพศ",
+    "age": "อายุ",
+    "human_no": "ID card/Passpot",
+    "phone": "เบอร์",
+    "group_blood": "กรุ๊ปเลือด",
+    "religion": "ศาสนา",
+    "nationality": "สัญชาติ",
+    "customer_type": "ประเภท",
+    "phright_treatmentone": "สิทธิการรักษา",
+    "drugAllergy_allergicReaction": "แพ้ยา/อาการแพ้",
+    "firstTimeComing": "มาครั้งแรก",
+    "comeWith": "มากับ",
+    "": ""
+  },
+  "edit_profile": {
+    "title_bar": "แก้ไขโปรไฟล์",
+    "name_from": "ชื่อ",
+    "sername_from": "นามสกุล",
+    "first_name": "ชื่อ(อังกฤษ)",
+    "last_name": "นามสกุล(อังกฤษ)",
+    "nickname": "ชื่อเล่น",
+    "birthday": "วัน/เดือน/ปี เกิด",
+    "birthday_cancel": "ยกเลิก",
+    "birthday_confirm": "ยืนยัน",
+    "gender": "เพศ",
+    "male": "ชาย",
+    "female": "หญิง",
+    "record": "บันทึก"
+  },
+  "family_Page": {
+    "title_bar": "ครอบครัว"
+  },
+  "contrac_Page": {
+    "title_bar": "ติดต่อ",
+    "link_location": "เปิดแผนที่",
+    "address": "",
+    "mail": "",
+    "facebook": "",
+    "line": "",
+    "phone": ""
+  },
+  "faq_Page": {
+    "title_bar": "คำถามที่พบบ่อย",
+    "how_to_1": "วิธีการจองนัดหมาย",
+    "how_to_2": "วิธีการชำระเงิน",
+    "how_to_3": "วิธีการเลื่อน",
+    "how_to_4": "วิธีการยกเลิก"
+  },
+  "Term_Page": {
+    "title_bar": "ข้อกำหนดและเงื่อนไข"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "toast": {
+    "need_exit": "Press Back again to exit the app.",
+    "alert_booking": "Please select service and desired date and time"
+  },
+  "onboarding": {
+    "skip": "skip",
+    "next": "next",
+    "start": "Get started",
+
+    "title_1": "Book an appointment anytime",
+    "description_1": "You can quickly book a dentist appointment. No need to waste time traveling to the clinic.",
+
+    "title_2": "Convenient and easy, just a few clicks",
+    "description_2": "You can book, postpone, cancel\nwith ease and have a notification system before your appointment.",
+
+    "title_3": "ดูแลอย่างใส่ใจ",
+    "description_3": "Our medical team are professionals who provide formal care. Service with modern medical equipment that meets standards."
+  },
+  "intro": {
+    "description": "UU Kiddent Dental Clinic",
+    "start": "Get started"
+  },
+  "intro_term": {
+    "appbar_title": "Terms and Conditions",
+    "bt_Confirm": "I accept the terms and conditions."
+  },
+  "log_in": {
+    "description": "Login with phone number",
+    "bt_Confirm": "confirm"
+  },
+  "otp": {
+    "appbar_title": "Enter OTP code",
+    "description": "Please enter the OTP received from your phone number.",
+    "bt_Confirm": "confirm",
+    "bt_Request": "Request OTP code again"
+  },
+  "regis": {
+    "description": "Confirm personal information",
+    "name": "name",
+    "surname": "surname",
+    "date": "Day/month/year of birth",
+    "date_cancel": "cancel",
+    "date_confirm": "confirm",
+    "gender": "gender",
+    "male": "male",
+    "female": "female",
+    "personal_information_error": "Please fill out the information completely.",
+    "gender_identification_error": "Please specify gender"
+  },
+  "mainHome": {
+    "Home": "Home",
+    "Booking": "Booking",
+    "History": "History",
+    "Profile": "Profile"
+  },
+  "home_page": {
+    "family": "Family",
+    "appointment_list": "Appointment list",
+    "view_all": "View all",
+    "notFound": "There are no appointments listed.",
+    "service": {
+      "all": "All services",
+      "check_teeth": "Check your teeth",
+      "scrape_tartar": "Scrape off tartar",
+      "tooth_extraction": "Tooth extraction",
+      "root": "Root",
+      "dental_filling": "Dental filling",
+      "wisdom_tooth_removal": "Wisdom tooth removal",
+      "crown": "Crown",
+      "orthodontics": "Dental care",
+      "grooves": "Grooves",
+      "retainer": "Retainer",
+      "whitening": "Teeth whitening",
+      "dental_X-ray": "Dental X-ray"
+    }
+  },
+  "booking_page": {
+    "find_doctor": "Find a doctor",
+    "select_service": "Select service",
+    "field_hint": "Search for symptoms, doctor, expertise",
+    "notFound": "No search results found.",
+    "description": "Please try searching using other similar words."
+  },
+  "history_page": {
+    "appbar_title": "Booking history",
+    "status": {
+      "all": "All status",
+      "approve": "Approve",
+      "confirm": "Confirm",
+      "waiting_check": "Waiting to check",
+      "cancel": "Cancel",
+      "waiting_payment": "Waiting for payment",
+      "succeed": "Succeed",
+      "appoint": "Make an appointment"
+    }
+  },
+  "profile_page": {
+    "view_profile": "View profile information",
+    "family": "Family",
+    "contact": "Contact",
+    "question": "Question",
+    "Terms_Conditions": "Terms and Conditions",
+    "log_out": "Log out",
+    "confirm_log_out": "Confirm logout",
+    "bt_Cancel": "Cancel",
+    "bt_Confirm": "Confirm"
+  },
+  "booking_calendar": {
+    "appbar_title": "Book an appointment",
+    "select_service": "Please select service",
+    "select_date": "Please select a day/month/year",
+    "select_time": "Please select a time",
+    "free_time": "Free time",
+    "busy_time": "Busy time",
+    "bt_Confirm": "Confirm booking"
+  },
+  "booking_result": {
+    "appbar_title": "Appointment booking summary",
+    "time": "time",
+    "doctor": "doctor",
+    "patient": "patient",
+    "reservation": "Reservation number",
+    "company_name": "UU Kiddent Company Limited",
+    "total_payment": "Total payment amount",
+    "number_total_payment": "฿500",
+    "scheduled_payment_time": "****Please pay within 10 minutes.",
+    "proof_payment": "Upload proof of payment",
+    "proof_payment_description": "****Please attach proof of payment. If you do not attach proof of payment, you will not be able to press confirm to make a reservation.",
+    "choose_picture": "Choose a picture",
+    "bt_Confirm": "Confirm booking",
+    "alert_Confirm": "Successful appointment",
+    "alert_bt_Confirm": "Return to home page"
+  },
+  "card": {
+    "reservation_no": "Reservation number",
+    "all": "All status",
+    "approve": "Approve",
+    "confirm": "Confirm",
+    "waiting_check": "Checking",
+    "cancel": "Cancel",
+    "waiting_payment": "Waiting for payment",
+    "succeed": "Succeed",
+    "appoint": "Make a doctor's appointment"
+  },
+  "in_card": {
+    "reservation_no": "Reservation number",
+
+    "in_approve": "Approve",
+    "in_confirm": "Confirm",
+    "in_waiting_check": "Checking",
+    "in_cancel": "Cancel",
+    "in_waiting_payment": "Waiting for payment",
+    "in_succeed": "Succeed",
+    "in_appoint": "Make a doctor's appointment",
+
+    "bt_confirm": "Confirm entry to the clinic",
+    "bt_confirm_description": "***You will be able to press it 24 hours before your appointment.",
+    "alert_confirm": {
+      "tile": "Confirm entry to the clinic",
+      "confirm": "Confirm",
+      "return": "Back"
+    },
+
+    "bt_postpone": "Postpone appointment",
+    "can_postpone_description": "***Can be postponed up to 12 hours before appointment.",
+    "postpone_description": "***Please show this page when you arrive at the clinic.",
+
+    "bt_cancel": "Cancel appointment",
+    "alert_cancel": {
+      "tile": "Cancel appointment",
+      "description": "Please specify a note. *",
+      "hintText": "Please specify a note. *",
+      "Warning": "***If you cancel an appointment, there will be no refunds in any case.",
+      "confirm": "Cancel appointment",
+      "return": "Back"
+    },
+    "bt_payment": "Payment"
+  },
+  "postpone_calendar": {
+    "appbar_title": "Postpone appointment",
+    "select_date": "Please select a day/month/year. that you want to reserve",
+    "select_time": "Please select a time",
+    "free_time": "Free time",
+    "busy_time": "Busy time",
+    "bt_postpone": "Confirm booking",
+
+    "alert_postpone": {
+      "tile": "Postpone appointment",
+      "description_1": "Deferral credit :     ",
+      "description_2": "     time",
+      "Warning": "***Please reschedule your appointment 12 hours before your scheduled appointment and if you reschedule more than 2 times there will be an additional fee.",
+      "postpone": "Postpone",
+      "payment": "Payment",
+      "return": "Back"
+    }
+  },
+  "show_profile": {
+    "title_bar": "Profile information",
+    "edit": "Edit",
+    "name": "Name",
+    "sername": "Sername",
+    "first_name": "Name(thai)",
+    "last_name": "Sername(thai)",
+    "nickname": "Nickname",
+    "birthday": "Birthday",
+    "gender": "Gender",
+    "age": "Age",
+    "human_no": "Human Number",
+    "phone": "Phone",
+    "group_blood": "Group Blood",
+    "religion": "Religion",
+    "nationality": "Nationality",
+    "customer_type": "Customer Type",
+    "phright_treatmentone": "Phright treatmentone",
+    "drugAllergy_allergicReaction": "DrugAllergy allergicReaction",
+    "firstTimeComing": "First Time Coming",
+    "comeWith": "ComeWith"
+  },
+  "edit_profile": {
+    "title_bar": "Edit Profile",
+    "name_from": "first name",
+    "sername_from": "last name",
+    "first_name": "Name(thai)",
+    "last_name": "Sername(thai)",
+    "nickname": "Nickname",
+    "birthday": "Birthday",
+    "birthday_cancel": "Cancel",
+    "birthday_confirm": "Confirm",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "record": "Save Data"
+  },
+  "family_Page": {
+    "title_bar": "Family"
+  },
+  "contrac_Page": {
+    "title_bar": "Contrac",
+    "link_location": "Open Map",
+    "address": "",
+    "mail": "",
+    "facebook": "",
+    "line": "",
+    "phone": ""
+  },
+  "faq_Page": {
+    "title_bar": "FAQ",
+    "how_to_1": "How to book an appointment",
+    "how_to_2": "How to pay for a reservation",
+    "how_to_3": "How to postpone an appointment",
+    "how_to_4": "How to cancel an appointment"
+  },
+  "Term_Page": {
+    "title_bar": "Terms and Conditions"
+  }
+}
